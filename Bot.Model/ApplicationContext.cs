@@ -10,7 +10,6 @@ namespace Bot.Model
         public ApplicationContext(DbContextOptions<ApplicationContext> options)
             : base(options)
         {
-
         }
     }
 }
